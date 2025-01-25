@@ -25,13 +25,13 @@ function App() {
     const onWheel = (e) => {
       if (e.deltaY == 0) return;
       e.preventDefault();
-      document.body.scrollTo({
-        left: document.body.scrollLeft + e.deltaY,
+      document?.body.scrollTo({
+        left: document?.body.scrollLeft + e.deltaY,
       });
     };
-    document.body.addEventListener("wheel", onWheel, { passive: false });
+    document?.body.addEventListener("wheel", onWheel, { passive: false });
     return () =>
-      document.body.removeEventListener("wheel", onWheel, { passive: false });
+      document?.body.removeEventListener("wheel", onWheel, { passive: false });
   }, []);
 
   return (
