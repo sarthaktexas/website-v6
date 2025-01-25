@@ -1,0 +1,1524 @@
+{
+  "general": {
+    "profilePhoto": "/content/media/profilePhoto.jpg",
+    "username": "srtk",
+    "displayName": "Sarthak Mohanty",
+    "profession": "Design Engineer",
+    "location": "San Antonio, Texas",
+    "pronouns": "he/him",
+    "byline": "Design Engineer in San Antonio, Texas, he/him",
+    "website": "sarthak.cv",
+    "websiteURL": "http://sarthak.cv",
+    "about": "Design engineer skilled in accessible web experiences. Looking for opportunities to create new brands.",
+    "status": {
+      "text": null,
+      "emoji": null,
+      "timestamp": null
+    },
+    "sectionOrder": [
+      "Contact",
+      "Projects",
+      "Side Projects",
+      "Work Experience",
+      "Volunteering",
+      "Speaking",
+      "Exhibitions",
+      "Writing",
+      "Awards",
+      "Features",
+      "Education",
+      "Certifications",
+      "Teams"
+    ]
+  },
+  "projects": [
+    {
+      "id": "IYiI6jZCjI5dp3IrOHoI",
+      "year": "2024",
+      "heading": "Designer at Hack Club",
+      "url": "https://www.figma.com/file/ZAx7eoGmJMJUl5txeqkKC9/2023-Annual-Report?type=design&node-id=443%3A2&mode=design&t=IkuOxbKTnWIZtFWx-1",
+      "collaborators": [
+        {
+          "displayName": "Toby Brown",
+          "profilePhoto": "/content/collaborators/tobyab.jpg",
+          "profileURL": "https://read.cv/tobyab"
+        }
+      ],
+      "description": "Designed the annual report for Hack Club's most fiscally active year.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 612,
+          "height": 792,
+          "url": "/content/media/Designer-at-Hack-Club-1.png"
+        },
+        {
+          "type": "image",
+          "width": 612,
+          "height": 792,
+          "url": "/content/media/Designer-at-Hack-Club-2.png"
+        },
+        {
+          "type": "image",
+          "width": 612,
+          "height": 792,
+          "url": "/content/media/Designer-at-Hack-Club-3.png"
+        },
+        {
+          "type": "image",
+          "width": 612,
+          "height": 792,
+          "url": "/content/media/Designer-at-Hack-Club-4.png"
+        },
+        {
+          "type": "image",
+          "width": 612,
+          "height": 792,
+          "url": "/content/media/Designer-at-Hack-Club-5.png"
+        },
+        {
+          "type": "image",
+          "width": 612,
+          "height": 792,
+          "url": "/content/media/Designer-at-Hack-Club-6.png"
+        },
+        {
+          "type": "image",
+          "width": 612,
+          "height": 792,
+          "url": "/content/media/Designer-at-Hack-Club-7.png"
+        },
+        {
+          "type": "image",
+          "width": 612,
+          "height": 792,
+          "url": "/content/media/Designer-at-Hack-Club-8.png"
+        },
+        {
+          "type": "image",
+          "width": 612,
+          "height": 792,
+          "url": "/content/media/Designer-at-Hack-Club-9.png"
+        },
+        {
+          "type": "image",
+          "width": 612,
+          "height": 792,
+          "url": "/content/media/Designer-at-Hack-Club-10.png"
+        },
+        {
+          "type": "image",
+          "width": 612,
+          "height": 792,
+          "url": "/content/media/Designer-at-Hack-Club-11.png"
+        },
+        {
+          "type": "image",
+          "width": 612,
+          "height": 792,
+          "url": "/content/media/Designer-at-Hack-Club-12.png"
+        },
+        {
+          "type": "image",
+          "width": 612,
+          "height": 792,
+          "url": "/content/media/Designer-at-Hack-Club-13.png"
+        },
+        {
+          "type": "image",
+          "width": 612,
+          "height": 792,
+          "url": "/content/media/Designer-at-Hack-Club-14.png"
+        },
+        {
+          "type": "image",
+          "width": 612,
+          "height": 792,
+          "url": "/content/media/Designer-at-Hack-Club-15.png"
+        },
+        {
+          "type": "image",
+          "width": 612,
+          "height": 792,
+          "url": "/content/media/Designer-at-Hack-Club-16.png"
+        },
+        {
+          "type": "image",
+          "width": 612,
+          "height": 792,
+          "url": "/content/media/Designer-at-Hack-Club-17.png"
+        },
+        {
+          "type": "image",
+          "width": 612,
+          "height": 792,
+          "url": "/content/media/Designer-at-Hack-Club-18.png"
+        }
+      ],
+      "type": "project",
+      "title": "Designer",
+      "company": "Hack Club"
+    },
+    {
+      "id": "E9j7FFMJT2Fr5QGQDw8N",
+      "year": "2022",
+      "heading": "Brand Designer at MA Hacks",
+      "url": "https://mahacks.com",
+      "collaborators": [
+        {
+          "displayName": "Kunal Botla",
+          "profilePhoto": null,
+          "profileURL": "https://read.cv/kunalbotla"
+        },
+        {
+          "displayName": "Benjamin Ashbaugh",
+          "profilePhoto": "/content/collaborators/bnjmn.jpg",
+          "profileURL": "https://read.cv/bnjmn"
+        }
+      ],
+      "description": "Designed a new brand for the sixth iteration of a high school hackathon in Boston, Massachusetts.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 4064,
+          "height": 2334,
+          "url": "/content/media/Brand-Designer-at-MA-Hacks.png"
+        }
+      ],
+      "type": "project",
+      "title": "Brand Designer",
+      "company": "MA Hacks"
+    },
+    {
+      "id": "jEdje8vft4n50eb72VDA",
+      "year": "2021",
+      "heading": "Designer, Developer at Doug Powell Law",
+      "url": "https://dougpowelllaw.com",
+      "collaborators": [],
+      "description": "Created a website for a local bankruptcy attorney's office.",
+      "attachments": [],
+      "type": "project",
+      "title": "Designer, Developer",
+      "company": "Doug Powell Law"
+    },
+    {
+      "id": "JH62sVsffP673IJJt20U",
+      "year": "2021",
+      "heading": "Designer at Project Boom",
+      "url": "https://www.figma.com/file/PqPhOJ0DYT3nBh68B3353a/Project-Boom-Site",
+      "collaborators": [],
+      "description": "Designed a new brand and a new website using Figma for a non-profit that recycles old computers that would have become e-waste, repairs them, and then sends them to people who need them all around the world.",
+      "attachments": [],
+      "type": "project",
+      "title": "Designer",
+      "company": "Project Boom"
+    },
+    {
+      "id": "T0c4rRdfpOw68pBVrzop",
+      "year": "2021",
+      "heading": "Designer, Developer at Fiveable",
+      "url": "https://www.figma.com/file/AT1rNs6YZtkk7jjo5iWMZW/Fiveable-Open-Source-Landing",
+      "collaborators": [],
+      "description": "Designed and developed a website for an EdTech's Open Source Initiative using Next.js, Tailwind, and Figma. In collaboration with Ella Xu, Zaid Arshad (Nico), and Aaron Levin.",
+      "attachments": [],
+      "type": "project",
+      "title": "Designer, Developer",
+      "company": "Fiveable"
+    },
+    {
+      "id": "UtM9n3k5MQ23GI7sbry1",
+      "year": "2021",
+      "heading": "Designer at Datacom Design",
+      "url": "https://datacomdesign.com",
+      "collaborators": [],
+      "description": "Designed a corporate website for the leading audio-visual architecture firm in South Texas. The design was then passed onto the engineering team after approval.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 4064,
+          "height": 2334,
+          "url": "/content/media/Designer-at-Datacom-Design.png"
+        }
+      ],
+      "type": "project",
+      "title": "Designer",
+      "company": "Datacom Design"
+    }
+  ],
+  "sideProjects": [
+    {
+      "id": "U6PvHVgmtdU5Gc8DXILo",
+      "year": "2024",
+      "heading": "Cider at Hack Club",
+      "url": "https://cider.hackclub.com",
+      "collaborators": [],
+      "description": "Created a small website to release a new grant program at Hack Club. Used Next.js and Tailwind.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 4064,
+          "height": 2334,
+          "url": "/content/media/Cider-at-Hack-Club.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Cider",
+      "company": "Hack Club"
+    },
+    {
+      "id": "Up8sGwlMm5VZL1MN39XW",
+      "year": "2024",
+      "heading": "Brand, Website at Committee to Elect Kunal Botla",
+      "url": "https://www.votekunal.com",
+      "collaborators": [
+        {
+          "displayName": "Kunal Botla",
+          "profilePhoto": null,
+          "profileURL": "https://read.cv/kunalbotla"
+        }
+      ],
+      "description": "Creating a brand kit and a website for a promising political candidate. Used Next.js and Tailwind.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3584,
+          "height": 2154,
+          "url": "/content/media/Brand-Website-at-Committee-to-Elect-Kunal-Botla-1.png"
+        },
+        {
+          "type": "image",
+          "width": 2160,
+          "height": 1620,
+          "url": "/content/media/Brand-Website-at-Committee-to-Elect-Kunal-Botla-2.jpg"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Brand, Website",
+      "company": "Committee to Elect Kunal Botla"
+    },
+    {
+      "id": "i6SYZ1XNIHH1Y9OZLVnl",
+      "year": "2024",
+      "heading": "Brand, Website for Blossom at Hack Club",
+      "url": "https://blossom.hackclub.com",
+      "collaborators": [],
+      "description": "",
+      "attachments": [],
+      "type": "sideProject",
+      "title": "Brand, Website for Blossom",
+      "company": "Hack Club"
+    },
+    {
+      "id": "IG3J8UXCPGBu6n44yr5Y",
+      "year": "2023",
+      "heading": "Sprig Drops at Hack Club",
+      "url": null,
+      "collaborators": [],
+      "description": "Created a small website to release winter-themed cases for a game console. Used Next.js, Tailwind, and ThreeJS.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3584,
+          "height": 2152,
+          "url": "/content/media/Sprig-Drops-at-Hack-Club.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Sprig Drops",
+      "company": "Hack Club"
+    },
+    {
+      "id": "6CnlI0pKUD4Fusnmrc89",
+      "year": "2023",
+      "heading": "Hoodie for Horizon at Hack Club",
+      "url": "https://horizon.hackclub.com",
+      "collaborators": [],
+      "description": "Designed a hoodie for a new coding program's flagship event. Used Figma.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 600,
+          "height": 600,
+          "url": "/content/media/Hoodie-for-Horizon-at-Hack-Club.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Hoodie for Horizon",
+      "company": "Hack Club"
+    },
+    {
+      "id": "laIAcj12WBhzLRoAhme7",
+      "year": "2022",
+      "heading": "T-Shirt Design at Brandeis EcoBroncos",
+      "url": null,
+      "collaborators": [],
+      "description": "Designed a new t-shirt for a thriving high school recycling club. Used Figma.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 600,
+          "height": 600,
+          "url": "/content/media/T-Shirt-Design-at-Brandeis-EcoBroncos.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "T-Shirt Design",
+      "company": "Brandeis EcoBroncos"
+    },
+    {
+      "id": "B0KlU5dBFS8AdAY6wDK2",
+      "year": "2022",
+      "heading": "Personal Website at Claire Wang",
+      "url": "https://clairebookworm.com",
+      "collaborators": [
+        {
+          "displayName": "Claire Wang",
+          "profilePhoto": "/content/collaborators/clairebookworm.jpg",
+          "profileURL": "https://read.cv/clairebookworm"
+        }
+      ],
+      "description": "Created a website for an emerging biology researcher. Used Next.js, Tailwind, and next-themes.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3584,
+          "height": 2140,
+          "url": "/content/media/Personal-Website-at-Claire-Wang.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Personal Website",
+      "company": "Claire Wang"
+    },
+    {
+      "id": "XhijNZd9lj9B1UXxyvOD",
+      "year": "2021",
+      "heading": "Hyper at Alamo City Hacks",
+      "url": "https://hyper-sarthakmohanty.vercel.app",
+      "collaborators": [],
+      "description": "Created a website for a new type of competition. Used Next.js, Tailwind, and Framer Motion.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3584,
+          "height": 2152,
+          "url": "/content/media/Hyper-at-Alamo-City-Hacks.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Hyper",
+      "company": "Alamo City Hacks"
+    },
+    {
+      "id": "e9Q8BY9gEUoLuIZFK4ed",
+      "year": "2021",
+      "heading": "Personal Website at Woody Keppel",
+      "url": "http://woody.vercel.app",
+      "collaborators": [],
+      "description": "Designed a website for a international show performer. Used Figma. Co-made with Belle See who developed the site using Next.js",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3584,
+          "height": 2152,
+          "url": "/content/media/Personal-Website-at-Woody-Keppel.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Personal Website",
+      "company": "Woody Keppel"
+    },
+    {
+      "id": "tbq9Jy9CIeCClySD9Xbv",
+      "year": "2021",
+      "heading": "Birthday Website at Charlie Welsh",
+      "url": "https://charlie-birthday.vercel.app",
+      "collaborators": [],
+      "description": "Created a website for a talented iOS engineer's birthday. Used Next.js, Tailwind, and Airtable.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3584,
+          "height": 2152,
+          "url": "/content/media/Birthday-Website-at-Charlie-Welsh.png"
+        }
+      ],
+      "type": "sideProject",
+      "title": "Birthday Website",
+      "company": "Charlie Welsh"
+    }
+  ],
+  "exhibitions": [
+    {
+      "id": "kVFJ0b1P4WQmlGkLtQA1",
+      "year": "2022",
+      "heading": "AutoAuto Station at Youth Code Jam",
+      "url": "https://youthcodejam.org",
+      "collaborators": [],
+      "description": "Designed and created activities for the AutoAuto station and taught kids Python and Machine Learning with RC cars. Lead a group of 5 volunteers from a data science bootcamp (CodeUp) to help me engage kids that visited our station.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 3024,
+          "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 3024,
+          "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-3.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-4.jpg"
+        },
+        {
+          "type": "image",
+          "width": 4032,
+          "height": 3024,
+          "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-5.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-6.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-7.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-8.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-9.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-10.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-11.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-12.jpg"
+        },
+        {
+          "type": "image",
+          "width": 3024,
+          "height": 4032,
+          "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-13.jpg"
+        }
+      ],
+      "type": "exhibition",
+      "title": "AutoAuto Station",
+      "venue": "Youth Code Jam",
+      "location": "ESC Region 20, San Antonio, Texas"
+    }
+  ],
+  "talks": [
+    {
+      "id": "m0eCWbNDhiGAOrxZtHv9",
+      "year": "2022",
+      "heading": "An Intro to Figma at Assemble",
+      "url": "https://assemble.hackclub.com",
+      "collaborators": [],
+      "description": "In this workshop, we designed a personal website with Figma. This was intended for beginners and everybody created a design that taught important tools like the shape tool, position tools, and flex-box utilities.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 6016,
+          "height": 4016,
+          "url": "/content/media/An-Intro-to-Figma-at-Assemble-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 5577,
+          "height": 3723,
+          "url": "/content/media/An-Intro-to-Figma-at-Assemble-2.jpg"
+        }
+      ],
+      "type": "talk",
+      "title": "An Intro to Figma",
+      "event": "Assemble",
+      "location": "San Francisco, California"
+    },
+    {
+      "id": "cwj6pNsSdQfz6IDYl7Ht",
+      "year": "2022",
+      "heading": "Making a Personal Website with Next.js at Assemble",
+      "url": "https://assemble.hackclub.com",
+      "collaborators": [],
+      "description": "In this workshop, we created a personal website with Next.js and Tailwind. This workshop was intended for coders who knew basic HTML and wanted to learn Next.js, but a lot of attendees were beginners so this lasted ~2hrs because we had to start with the basics. Two hackathon teams remixed this workshop to make their project. Co-taught with Jaden Yu.",
+      "attachments": [
+        {
+          "type": "image",
+          "width": 6016,
+          "height": 4016,
+          "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-1.jpg"
+        },
+        {
+          "type": "image",
+          "width": 6016,
+          "height": 4016,
+          "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-2.jpg"
+        },
+        {
+          "type": "image",
+          "width": 5461,
+          "height": 3646,
+          "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-3.jpg"
+        },
+        {
+          "type": "image",
+          "width": 6016,
+          "height": 4016,
+          "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-4.jpg"
+        },
+        {
+          "type": "image",
+          "width": 6016,
+          "height": 4016,
+          "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-5.jpg"
+        },
+        {
+          "type": "image",
+          "width": 5931,
+          "height": 3959,
+          "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-6.jpg"
+        },
+        {
+          "type": "image",
+          "width": 6016,
+          "height": 4016,
+          "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-7.jpg"
+        },
+        {
+          "type": "image",
+          "width": 5908,
+          "height": 3944,
+          "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-8.jpg"
+        },
+        {
+          "type": "image",
+          "width": 6016,
+          "height": 4016,
+          "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-9.jpg"
+        },
+        {
+          "type": "image",
+          "width": 5910,
+          "height": 3945,
+          "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-10.jpg"
+        },
+        {
+          "type": "image",
+          "width": 6016,
+          "height": 4016,
+          "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-11.jpg"
+        },
+        {
+          "type": "image",
+          "width": 6016,
+          "height": 4016,
+          "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-12.jpg"
+        }
+      ],
+      "type": "talk",
+      "title": "Making a Personal Website with Next.js",
+      "event": "Assemble",
+      "location": "San Francisco, California"
+    },
+    {
+      "id": "Bqqpko9V7CPvb7eRLrEj",
+      "year": "2021",
+      "heading": "Creating Responsive Websites using Tailwind at AngelHacks",
+      "url": "https://angelhacks.org",
+      "collaborators": [],
+      "description": "Doing workshops remotely on Zoom is extremely difficult. There was no final project in this workshop and instead was targeted at teaching CSS Flexbox and Grid to attendees who were learning web design and wanted to integrate these technologies into their site. Although a lot of (virtual) bottlenecks, attendees learned how to make a responsive website using Tailwind CSS.",
+      "attachments": [],
+      "type": "talk",
+      "title": "Creating Responsive Websites using Tailwind",
+      "event": "AngelHacks",
+      "location": "Los Angeles, California"
+    },
+    {
+      "id": "TWSGjxYOX744CbVDIf5l",
+      "year": "2021",
+      "heading": "Git: Multiplayer Notepad at Youth Code Jam Hackathon",
+      "url": "https://git-workshop.vercel.app",
+      "collaborators": [],
+      "description": "I talked about how git works and how beginners can use it. This was for kids in middle school and they finished the workshop with a git repository with pushed code. Linked are the slides made on MDX.",
+      "attachments": [],
+      "type": "talk",
+      "title": "Git: Multiplayer Notepad",
+      "event": "Youth Code Jam Hackathon",
+      "location": "San Antonio, Texas"
+    }
+  ],
+  "writing": [],
+  "awards": [],
+  "features": [],
+  "workExperience": [
+    {
+      "id": "R0UYLhUJpEiYlQHv56im",
+      "year": "2020 — Now",
+      "heading": "Instructor at Youth Code Jam",
+      "url": "https://youthcodejam.org",
+      "collaborators": [],
+      "description": "Worked with under-represented and under-privileged K-12 students as well as teachers and taught them how to code in Scratch, Python, and Java. View some of my projects below.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Instructor",
+      "company": "Youth Code Jam",
+      "location": "San Antonio, Texas"
+    },
+    {
+      "id": "5QSapwjFGmoMlRg93zov",
+      "year": "2024 — 2024",
+      "heading": "Web Engineer II at Hack Club Bank",
+      "url": "https://hackclub.com/fiscal-sponsorship",
+      "collaborators": [],
+      "description": "* Designing documents and flyers for the partnerships branch of our fiscal sponsorship program using Figma\n\n* Collaborated on a new internal tool to help transfer money externally",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Web Engineer II",
+      "company": "Hack Club Bank",
+      "location": "Shelburne, Vermont"
+    },
+    {
+      "id": "3dOHUninUzqjQlhigscU",
+      "year": "2023 — 2024",
+      "heading": "Web Engineer at Hack Club Bank",
+      "url": "https://hackclub.com/fiscal-sponsorship",
+      "collaborators": [],
+      "description": "* Mentored junior developers in a Ruby on Rails codebase as part of the new MentorShip program\n\n* Built administrative features that directly impacted end users\n\n* Spearheaded fixing older admin features to enable a more efficient application flow for staff members\n\n* Created documents and layouts for a new adult-facing branch of our fiscal sponsorship program using Figma",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Web Engineer",
+      "company": "Hack Club Bank",
+      "location": "Shelburne, Vermont"
+    },
+    {
+      "id": "3JLwYHhONPN4CBKdu7fS",
+      "year": "2023 — 2023",
+      "heading": "Educational Engineer at Hack Club",
+      "url": "https://hackclub.com",
+      "collaborators": [],
+      "description": "* Designed websites and documents for the philanthropy and communications team for use in fundraising and sending to donors\n* Completed a new Clubs team initiative to bring more workshops onto the site\n* Converted older, dated workshops into jams and updated examples, live projects, and other assets",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Educational Engineer",
+      "company": "Hack Club",
+      "location": "Shelburne, Vermont"
+    },
+    {
+      "id": "85TjnuPQBZPx7eSmOLBo",
+      "year": "2020 — 2021",
+      "heading": "Web Developer at Mintere",
+      "url": null,
+      "collaborators": [],
+      "description": "Led development and design of client websites using Next.js, styled-jsx, and Sanity CMS. Collaborated with the social team to create a unified brand kit for clients.",
+      "attachments": [],
+      "type": "workExperience",
+      "title": "Web Developer",
+      "company": "Mintere",
+      "location": "Remote to Dallas, Texas"
+    }
+  ],
+  "volunteering": [],
+  "education": [],
+  "certifications": [],
+  "contact": [
+    {
+      "id": "omgK24zDa1xHQBiLSAqE",
+      "platform": "Email",
+      "handle": "sarthak@sarthakmohanty.me",
+      "url": "mailto:sarthak@sarthakmohanty.me"
+    },
+    {
+      "id": "Lm0HBiuj7dSSwlgsvR05",
+      "platform": "GitHub",
+      "handle": "sarthaktexas",
+      "url": "https://github.com/sarthaktexas"
+    }
+  ],
+  "allCollections": [
+    {
+      "name": "Contact",
+      "items": [
+        {
+          "id": "omgK24zDa1xHQBiLSAqE",
+          "platform": "Email",
+          "handle": "sarthak@sarthakmohanty.me",
+          "url": "mailto:sarthak@sarthakmohanty.me"
+        },
+        {
+          "id": "Lm0HBiuj7dSSwlgsvR05",
+          "platform": "GitHub",
+          "handle": "sarthaktexas",
+          "url": "https://github.com/sarthaktexas"
+        }
+      ]
+    },
+    {
+      "name": "Projects",
+      "items": [
+        {
+          "id": "IYiI6jZCjI5dp3IrOHoI",
+          "year": "2024",
+          "heading": "Designer at Hack Club",
+          "url": "https://www.figma.com/file/ZAx7eoGmJMJUl5txeqkKC9/2023-Annual-Report?type=design&node-id=443%3A2&mode=design&t=IkuOxbKTnWIZtFWx-1",
+          "collaborators": [
+            {
+              "displayName": "Toby Brown",
+              "profilePhoto": "/content/collaborators/tobyab.jpg",
+              "profileURL": "https://read.cv/tobyab"
+            }
+          ],
+          "description": "Designed the annual report for Hack Club's most fiscally active year.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 612,
+              "height": 792,
+              "url": "/content/media/Designer-at-Hack-Club-1.png"
+            },
+            {
+              "type": "image",
+              "width": 612,
+              "height": 792,
+              "url": "/content/media/Designer-at-Hack-Club-2.png"
+            },
+            {
+              "type": "image",
+              "width": 612,
+              "height": 792,
+              "url": "/content/media/Designer-at-Hack-Club-3.png"
+            },
+            {
+              "type": "image",
+              "width": 612,
+              "height": 792,
+              "url": "/content/media/Designer-at-Hack-Club-4.png"
+            },
+            {
+              "type": "image",
+              "width": 612,
+              "height": 792,
+              "url": "/content/media/Designer-at-Hack-Club-5.png"
+            },
+            {
+              "type": "image",
+              "width": 612,
+              "height": 792,
+              "url": "/content/media/Designer-at-Hack-Club-6.png"
+            },
+            {
+              "type": "image",
+              "width": 612,
+              "height": 792,
+              "url": "/content/media/Designer-at-Hack-Club-7.png"
+            },
+            {
+              "type": "image",
+              "width": 612,
+              "height": 792,
+              "url": "/content/media/Designer-at-Hack-Club-8.png"
+            },
+            {
+              "type": "image",
+              "width": 612,
+              "height": 792,
+              "url": "/content/media/Designer-at-Hack-Club-9.png"
+            },
+            {
+              "type": "image",
+              "width": 612,
+              "height": 792,
+              "url": "/content/media/Designer-at-Hack-Club-10.png"
+            },
+            {
+              "type": "image",
+              "width": 612,
+              "height": 792,
+              "url": "/content/media/Designer-at-Hack-Club-11.png"
+            },
+            {
+              "type": "image",
+              "width": 612,
+              "height": 792,
+              "url": "/content/media/Designer-at-Hack-Club-12.png"
+            },
+            {
+              "type": "image",
+              "width": 612,
+              "height": 792,
+              "url": "/content/media/Designer-at-Hack-Club-13.png"
+            },
+            {
+              "type": "image",
+              "width": 612,
+              "height": 792,
+              "url": "/content/media/Designer-at-Hack-Club-14.png"
+            },
+            {
+              "type": "image",
+              "width": 612,
+              "height": 792,
+              "url": "/content/media/Designer-at-Hack-Club-15.png"
+            },
+            {
+              "type": "image",
+              "width": 612,
+              "height": 792,
+              "url": "/content/media/Designer-at-Hack-Club-16.png"
+            },
+            {
+              "type": "image",
+              "width": 612,
+              "height": 792,
+              "url": "/content/media/Designer-at-Hack-Club-17.png"
+            },
+            {
+              "type": "image",
+              "width": 612,
+              "height": 792,
+              "url": "/content/media/Designer-at-Hack-Club-18.png"
+            }
+          ],
+          "type": "project",
+          "title": "Designer",
+          "company": "Hack Club"
+        },
+        {
+          "id": "E9j7FFMJT2Fr5QGQDw8N",
+          "year": "2022",
+          "heading": "Brand Designer at MA Hacks",
+          "url": "https://mahacks.com",
+          "collaborators": [
+            {
+              "displayName": "Kunal Botla",
+              "profilePhoto": null,
+              "profileURL": "https://read.cv/kunalbotla"
+            },
+            {
+              "displayName": "Benjamin Ashbaugh",
+              "profilePhoto": "/content/collaborators/bnjmn.jpg",
+              "profileURL": "https://read.cv/bnjmn"
+            }
+          ],
+          "description": "Designed a new brand for the sixth iteration of a high school hackathon in Boston, Massachusetts.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 4064,
+              "height": 2334,
+              "url": "/content/media/Brand-Designer-at-MA-Hacks.png"
+            }
+          ],
+          "type": "project",
+          "title": "Brand Designer",
+          "company": "MA Hacks"
+        },
+        {
+          "id": "jEdje8vft4n50eb72VDA",
+          "year": "2021",
+          "heading": "Designer, Developer at Doug Powell Law",
+          "url": "https://dougpowelllaw.com",
+          "collaborators": [],
+          "description": "Created a website for a local bankruptcy attorney's office.",
+          "attachments": [],
+          "type": "project",
+          "title": "Designer, Developer",
+          "company": "Doug Powell Law"
+        },
+        {
+          "id": "JH62sVsffP673IJJt20U",
+          "year": "2021",
+          "heading": "Designer at Project Boom",
+          "url": "https://www.figma.com/file/PqPhOJ0DYT3nBh68B3353a/Project-Boom-Site",
+          "collaborators": [],
+          "description": "Designed a new brand and a new website using Figma for a non-profit that recycles old computers that would have become e-waste, repairs them, and then sends them to people who need them all around the world.",
+          "attachments": [],
+          "type": "project",
+          "title": "Designer",
+          "company": "Project Boom"
+        },
+        {
+          "id": "T0c4rRdfpOw68pBVrzop",
+          "year": "2021",
+          "heading": "Designer, Developer at Fiveable",
+          "url": "https://www.figma.com/file/AT1rNs6YZtkk7jjo5iWMZW/Fiveable-Open-Source-Landing",
+          "collaborators": [],
+          "description": "Designed and developed a website for an EdTech's Open Source Initiative using Next.js, Tailwind, and Figma. In collaboration with Ella Xu, Zaid Arshad (Nico), and Aaron Levin.",
+          "attachments": [],
+          "type": "project",
+          "title": "Designer, Developer",
+          "company": "Fiveable"
+        },
+        {
+          "id": "UtM9n3k5MQ23GI7sbry1",
+          "year": "2021",
+          "heading": "Designer at Datacom Design",
+          "url": "https://datacomdesign.com",
+          "collaborators": [],
+          "description": "Designed a corporate website for the leading audio-visual architecture firm in South Texas. The design was then passed onto the engineering team after approval.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 4064,
+              "height": 2334,
+              "url": "/content/media/Designer-at-Datacom-Design.png"
+            }
+          ],
+          "type": "project",
+          "title": "Designer",
+          "company": "Datacom Design"
+        }
+      ]
+    },
+    {
+      "name": "Side Projects",
+      "items": [
+        {
+          "id": "U6PvHVgmtdU5Gc8DXILo",
+          "year": "2024",
+          "heading": "Cider at Hack Club",
+          "url": "https://cider.hackclub.com",
+          "collaborators": [],
+          "description": "Created a small website to release a new grant program at Hack Club. Used Next.js and Tailwind.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 4064,
+              "height": 2334,
+              "url": "/content/media/Cider-at-Hack-Club.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Cider",
+          "company": "Hack Club"
+        },
+        {
+          "id": "Up8sGwlMm5VZL1MN39XW",
+          "year": "2024",
+          "heading": "Brand, Website at Committee to Elect Kunal Botla",
+          "url": "https://www.votekunal.com",
+          "collaborators": [
+            {
+              "displayName": "Kunal Botla",
+              "profilePhoto": null,
+              "profileURL": "https://read.cv/kunalbotla"
+            }
+          ],
+          "description": "Creating a brand kit and a website for a promising political candidate. Used Next.js and Tailwind.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3584,
+              "height": 2154,
+              "url": "/content/media/Brand-Website-at-Committee-to-Elect-Kunal-Botla-1.png"
+            },
+            {
+              "type": "image",
+              "width": 2160,
+              "height": 1620,
+              "url": "/content/media/Brand-Website-at-Committee-to-Elect-Kunal-Botla-2.jpg"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Brand, Website",
+          "company": "Committee to Elect Kunal Botla"
+        },
+        {
+          "id": "i6SYZ1XNIHH1Y9OZLVnl",
+          "year": "2024",
+          "heading": "Brand, Website for Blossom at Hack Club",
+          "url": "https://blossom.hackclub.com",
+          "collaborators": [],
+          "description": "",
+          "attachments": [],
+          "type": "sideProject",
+          "title": "Brand, Website for Blossom",
+          "company": "Hack Club"
+        },
+        {
+          "id": "IG3J8UXCPGBu6n44yr5Y",
+          "year": "2023",
+          "heading": "Sprig Drops at Hack Club",
+          "url": null,
+          "collaborators": [],
+          "description": "Created a small website to release winter-themed cases for a game console. Used Next.js, Tailwind, and ThreeJS.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3584,
+              "height": 2152,
+              "url": "/content/media/Sprig-Drops-at-Hack-Club.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Sprig Drops",
+          "company": "Hack Club"
+        },
+        {
+          "id": "6CnlI0pKUD4Fusnmrc89",
+          "year": "2023",
+          "heading": "Hoodie for Horizon at Hack Club",
+          "url": "https://horizon.hackclub.com",
+          "collaborators": [],
+          "description": "Designed a hoodie for a new coding program's flagship event. Used Figma.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 600,
+              "height": 600,
+              "url": "/content/media/Hoodie-for-Horizon-at-Hack-Club.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Hoodie for Horizon",
+          "company": "Hack Club"
+        },
+        {
+          "id": "laIAcj12WBhzLRoAhme7",
+          "year": "2022",
+          "heading": "T-Shirt Design at Brandeis EcoBroncos",
+          "url": null,
+          "collaborators": [],
+          "description": "Designed a new t-shirt for a thriving high school recycling club. Used Figma.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 600,
+              "height": 600,
+              "url": "/content/media/T-Shirt-Design-at-Brandeis-EcoBroncos.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "T-Shirt Design",
+          "company": "Brandeis EcoBroncos"
+        },
+        {
+          "id": "B0KlU5dBFS8AdAY6wDK2",
+          "year": "2022",
+          "heading": "Personal Website at Claire Wang",
+          "url": "https://clairebookworm.com",
+          "collaborators": [
+            {
+              "displayName": "Claire Wang",
+              "profilePhoto": "/content/collaborators/clairebookworm.jpg",
+              "profileURL": "https://read.cv/clairebookworm"
+            }
+          ],
+          "description": "Created a website for an emerging biology researcher. Used Next.js, Tailwind, and next-themes.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3584,
+              "height": 2140,
+              "url": "/content/media/Personal-Website-at-Claire-Wang.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Personal Website",
+          "company": "Claire Wang"
+        },
+        {
+          "id": "XhijNZd9lj9B1UXxyvOD",
+          "year": "2021",
+          "heading": "Hyper at Alamo City Hacks",
+          "url": "https://hyper-sarthakmohanty.vercel.app",
+          "collaborators": [],
+          "description": "Created a website for a new type of competition. Used Next.js, Tailwind, and Framer Motion.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3584,
+              "height": 2152,
+              "url": "/content/media/Hyper-at-Alamo-City-Hacks.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Hyper",
+          "company": "Alamo City Hacks"
+        },
+        {
+          "id": "e9Q8BY9gEUoLuIZFK4ed",
+          "year": "2021",
+          "heading": "Personal Website at Woody Keppel",
+          "url": "http://woody.vercel.app",
+          "collaborators": [],
+          "description": "Designed a website for a international show performer. Used Figma. Co-made with Belle See who developed the site using Next.js",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3584,
+              "height": 2152,
+              "url": "/content/media/Personal-Website-at-Woody-Keppel.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Personal Website",
+          "company": "Woody Keppel"
+        },
+        {
+          "id": "tbq9Jy9CIeCClySD9Xbv",
+          "year": "2021",
+          "heading": "Birthday Website at Charlie Welsh",
+          "url": "https://charlie-birthday.vercel.app",
+          "collaborators": [],
+          "description": "Created a website for a talented iOS engineer's birthday. Used Next.js, Tailwind, and Airtable.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3584,
+              "height": 2152,
+              "url": "/content/media/Birthday-Website-at-Charlie-Welsh.png"
+            }
+          ],
+          "type": "sideProject",
+          "title": "Birthday Website",
+          "company": "Charlie Welsh"
+        }
+      ]
+    },
+    {
+      "name": "Work Experience",
+      "items": [
+        {
+          "id": "R0UYLhUJpEiYlQHv56im",
+          "year": "2020 — Now",
+          "heading": "Instructor at Youth Code Jam",
+          "url": "https://youthcodejam.org",
+          "collaborators": [],
+          "description": "Worked with under-represented and under-privileged K-12 students as well as teachers and taught them how to code in Scratch, Python, and Java. View some of my projects below.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Instructor",
+          "company": "Youth Code Jam",
+          "location": "San Antonio, Texas"
+        },
+        {
+          "id": "5QSapwjFGmoMlRg93zov",
+          "year": "2024 — 2024",
+          "heading": "Web Engineer II at Hack Club Bank",
+          "url": "https://hackclub.com/fiscal-sponsorship",
+          "collaborators": [],
+          "description": "* Designing documents and flyers for the partnerships branch of our fiscal sponsorship program using Figma\n\n* Collaborated on a new internal tool to help transfer money externally",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Web Engineer II",
+          "company": "Hack Club Bank",
+          "location": "Shelburne, Vermont"
+        },
+        {
+          "id": "3dOHUninUzqjQlhigscU",
+          "year": "2023 — 2024",
+          "heading": "Web Engineer at Hack Club Bank",
+          "url": "https://hackclub.com/fiscal-sponsorship",
+          "collaborators": [],
+          "description": "* Mentored junior developers in a Ruby on Rails codebase as part of the new MentorShip program\n\n* Built administrative features that directly impacted end users\n\n* Spearheaded fixing older admin features to enable a more efficient application flow for staff members\n\n* Created documents and layouts for a new adult-facing branch of our fiscal sponsorship program using Figma",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Web Engineer",
+          "company": "Hack Club Bank",
+          "location": "Shelburne, Vermont"
+        },
+        {
+          "id": "3JLwYHhONPN4CBKdu7fS",
+          "year": "2023 — 2023",
+          "heading": "Educational Engineer at Hack Club",
+          "url": "https://hackclub.com",
+          "collaborators": [],
+          "description": "* Designed websites and documents for the philanthropy and communications team for use in fundraising and sending to donors\n* Completed a new Clubs team initiative to bring more workshops onto the site\n* Converted older, dated workshops into jams and updated examples, live projects, and other assets",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Educational Engineer",
+          "company": "Hack Club",
+          "location": "Shelburne, Vermont"
+        },
+        {
+          "id": "85TjnuPQBZPx7eSmOLBo",
+          "year": "2020 — 2021",
+          "heading": "Web Developer at Mintere",
+          "url": null,
+          "collaborators": [],
+          "description": "Led development and design of client websites using Next.js, styled-jsx, and Sanity CMS. Collaborated with the social team to create a unified brand kit for clients.",
+          "attachments": [],
+          "type": "workExperience",
+          "title": "Web Developer",
+          "company": "Mintere",
+          "location": "Remote to Dallas, Texas"
+        }
+      ]
+    },
+    {
+      "name": "Speaking",
+      "items": [
+        {
+          "id": "m0eCWbNDhiGAOrxZtHv9",
+          "year": "2022",
+          "heading": "An Intro to Figma at Assemble",
+          "url": "https://assemble.hackclub.com",
+          "collaborators": [],
+          "description": "In this workshop, we designed a personal website with Figma. This was intended for beginners and everybody created a design that taught important tools like the shape tool, position tools, and flex-box utilities.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 6016,
+              "height": 4016,
+              "url": "/content/media/An-Intro-to-Figma-at-Assemble-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 5577,
+              "height": 3723,
+              "url": "/content/media/An-Intro-to-Figma-at-Assemble-2.jpg"
+            }
+          ],
+          "type": "talk",
+          "title": "An Intro to Figma",
+          "event": "Assemble",
+          "location": "San Francisco, California"
+        },
+        {
+          "id": "cwj6pNsSdQfz6IDYl7Ht",
+          "year": "2022",
+          "heading": "Making a Personal Website with Next.js at Assemble",
+          "url": "https://assemble.hackclub.com",
+          "collaborators": [],
+          "description": "In this workshop, we created a personal website with Next.js and Tailwind. This workshop was intended for coders who knew basic HTML and wanted to learn Next.js, but a lot of attendees were beginners so this lasted ~2hrs because we had to start with the basics. Two hackathon teams remixed this workshop to make their project. Co-taught with Jaden Yu.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 6016,
+              "height": 4016,
+              "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 6016,
+              "height": 4016,
+              "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 5461,
+              "height": 3646,
+              "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-3.jpg"
+            },
+            {
+              "type": "image",
+              "width": 6016,
+              "height": 4016,
+              "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-4.jpg"
+            },
+            {
+              "type": "image",
+              "width": 6016,
+              "height": 4016,
+              "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-5.jpg"
+            },
+            {
+              "type": "image",
+              "width": 5931,
+              "height": 3959,
+              "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-6.jpg"
+            },
+            {
+              "type": "image",
+              "width": 6016,
+              "height": 4016,
+              "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-7.jpg"
+            },
+            {
+              "type": "image",
+              "width": 5908,
+              "height": 3944,
+              "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-8.jpg"
+            },
+            {
+              "type": "image",
+              "width": 6016,
+              "height": 4016,
+              "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-9.jpg"
+            },
+            {
+              "type": "image",
+              "width": 5910,
+              "height": 3945,
+              "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-10.jpg"
+            },
+            {
+              "type": "image",
+              "width": 6016,
+              "height": 4016,
+              "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-11.jpg"
+            },
+            {
+              "type": "image",
+              "width": 6016,
+              "height": 4016,
+              "url": "/content/media/Making-a-Personal-Website-with-Nextjs-at-Assemble-12.jpg"
+            }
+          ],
+          "type": "talk",
+          "title": "Making a Personal Website with Next.js",
+          "event": "Assemble",
+          "location": "San Francisco, California"
+        },
+        {
+          "id": "Bqqpko9V7CPvb7eRLrEj",
+          "year": "2021",
+          "heading": "Creating Responsive Websites using Tailwind at AngelHacks",
+          "url": "https://angelhacks.org",
+          "collaborators": [],
+          "description": "Doing workshops remotely on Zoom is extremely difficult. There was no final project in this workshop and instead was targeted at teaching CSS Flexbox and Grid to attendees who were learning web design and wanted to integrate these technologies into their site. Although a lot of (virtual) bottlenecks, attendees learned how to make a responsive website using Tailwind CSS.",
+          "attachments": [],
+          "type": "talk",
+          "title": "Creating Responsive Websites using Tailwind",
+          "event": "AngelHacks",
+          "location": "Los Angeles, California"
+        },
+        {
+          "id": "TWSGjxYOX744CbVDIf5l",
+          "year": "2021",
+          "heading": "Git: Multiplayer Notepad at Youth Code Jam Hackathon",
+          "url": "https://git-workshop.vercel.app",
+          "collaborators": [],
+          "description": "I talked about how git works and how beginners can use it. This was for kids in middle school and they finished the workshop with a git repository with pushed code. Linked are the slides made on MDX.",
+          "attachments": [],
+          "type": "talk",
+          "title": "Git: Multiplayer Notepad",
+          "event": "Youth Code Jam Hackathon",
+          "location": "San Antonio, Texas"
+        }
+      ]
+    },
+    {
+      "name": "Exhibitions",
+      "items": [
+        {
+          "id": "kVFJ0b1P4WQmlGkLtQA1",
+          "year": "2022",
+          "heading": "AutoAuto Station at Youth Code Jam",
+          "url": "https://youthcodejam.org",
+          "collaborators": [],
+          "description": "Designed and created activities for the AutoAuto station and taught kids Python and Machine Learning with RC cars. Lead a group of 5 volunteers from a data science bootcamp (CodeUp) to help me engage kids that visited our station.",
+          "attachments": [
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-1.jpg"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-2.jpg"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-3.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-4.jpg"
+            },
+            {
+              "type": "image",
+              "width": 4032,
+              "height": 3024,
+              "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-5.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-6.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-7.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-8.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-9.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-10.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-11.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-12.jpg"
+            },
+            {
+              "type": "image",
+              "width": 3024,
+              "height": 4032,
+              "url": "/content/media/AutoAuto-Station-at-Youth-Code-Jam-13.jpg"
+            }
+          ],
+          "type": "exhibition",
+          "title": "AutoAuto Station",
+          "venue": "Youth Code Jam",
+          "location": "ESC Region 20, San Antonio, Texas"
+        }
+      ]
+    }
+  ]
+}
