@@ -9,11 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fontsource-variable/inter": "latest",
+    "@vercel/speed-insights": "^1.1.0",
+    "framer-motion": "11.2.11",
+    "next": "15.1.0",
     "react": "18.3.1",
     "react-dom": "18.3.1",
-    "next": "15.1.0",
-    "@fontsource-variable/inter": "latest",
-    "framer-motion": "11.2.11",
     "readcv": "0.1.5",
     "use-resize-observer": "latest"
   }
