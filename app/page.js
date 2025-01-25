@@ -4,6 +4,7 @@ import React, { useRef, useEffect, useState } from "react";
 import { RichText, combineCollections } from "readcv";
 import useResizeObserver from "use-resize-observer";
 import "@fontsource-variable/inter";
+import Scrollbar from "./components/Scrollbar";
 
 import cv from "./cv";
 
@@ -25,13 +26,13 @@ function App() {
     const onWheel = (e) => {
       if (e.deltaY == 0) return;
       e.preventDefault();
-      document?.body.scrollTo({
-        left: document?.body.scrollLeft + e.deltaY,
+      document.body.scrollTo({
+        left: document.body.scrollLeft + e.deltaY,
       });
     };
-    document?.body.addEventListener("wheel", onWheel, { passive: false });
+    document.body.addEventListener("wheel", onWheel, { passive: false });
     return () =>
-      document?.body.removeEventListener("wheel", onWheel, { passive: false });
+      document.body.removeEventListener("wheel", onWheel, { passive: false });
   }, []);
 
   return (
@@ -230,64 +231,6 @@ function Experience(props) {
 
 function RainbowBar(props) {
   return <div className="bg-rainbow similar-scrollbar scrollbar"></div>;
-}
-
-function Scrollbar(props) {
-  const [isScrollable, setIsScrollable] = useState(false);
-  // const [renderCount, setRenderCount] = useState(0); // not sure why this is needed
-  const bodyRef = useRef(document?.body);
-  const trackRef = useRef(null);
-
-  useEffect(() => {
-    let view = bodyRef.current;
-    const onScroll = (e) => {
-      if (!bodyRef.current) {
-        return;
-      }
-      // setRenderCount((count) => count + 1);
-    };
-    view.addEventListener("scroll", onScroll);
-    return () => view.removeEventListener("scroll", onScroll);
-  }, []);
-
-  const onResize = () => {
-    let container = bodyRef.current;
-    if (container && container.scrollWidth > container.offsetWidth) {
-      setIsScrollable(true);
-    } else {
-      setIsScrollable(false);
-    }
-    // setRenderCount((count) => count + 1);
-  };
-
-  useResizeObserver({ ref: bodyRef, onResize });
-  const barWidth = bodyRef.current
-    ? bodyRef.current.offsetWidth / bodyRef.current.scrollWidth
-    : 0;
-  const trackWidth = trackRef.current ? trackRef.current.offsetWidth : 0;
-  const barPos = bodyRef.current
-    ? bodyRef.current.scrollLeft /
-      (bodyRef.current.scrollWidth - bodyRef.current.offsetWidth)
-    : 0;
-
-  if (!isScrollable) {
-    return null;
-  }
-
-  return (
-    <div className="scrollbar">
-      <div className="track" ref={trackRef}>
-        <div
-          style={{
-            width: barWidth * 100 + "%",
-            transform:
-              "translateX(" + (1 - barWidth) * trackWidth * barPos + "px)",
-          }}
-          className="slider"
-        />
-      </div>
-    </div>
-  );
 }
 
 export default App;
